@@ -1,4 +1,4 @@
-# Project: Finding small local perturbations using Local Deviation Transform
+# Discovery of Hidden Local Spatial Patterns Using Local Deviation Transform
 ## Summary:
 Application of Local Deviation Transform on 2D spatial datasets for discovery of small local perturbations in long-range non-uniform data is explored in Python Jupyter Notebooks. Maps with dominant long range effects are transformed into maps of local neighborhood deviations, allowing to detect perturbations smaller than 1% of the total non-uniformity of data. 
 
