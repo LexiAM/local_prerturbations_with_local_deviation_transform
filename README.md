@@ -5,10 +5,12 @@ Application of Local Deviation Transform on 2D spatial datasets for discovery of
 Local Deviation Transform can be described by the following equation:
 ![](/resources/ldt_formula.png?raw=true)
 
-This type of transformations has been demonstrate in analysis of non-uniformities of properties of thin films used in Semiconductor and LED industries.
+This type of transformations has been demonstrated in analysis of non-uniformities of properties of thin films used in Semiconductor and LED industries.
+
+![](/resources/ldt.png?raw=true)
 
 **The approach can be generalized to higher dimensions and is applicable to various types of spatial data with superimposed local and long-range patterns.** 
-![](/resources/ldt.png?raw=true)
+
 
 ## File Structure
 ```
